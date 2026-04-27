@@ -13,7 +13,7 @@ This repository is my **hands-on learning journal**, where I document daily SQL 
 
 ---
 
-## 📌 What This Repository Contains
+ 📌 What This Repository Contains
 This repo is not just code — it is my **daily learning progress tracker**.
 
 Here you will find:
@@ -26,9 +26,9 @@ Here you will find:
 
 ---
 
-## 📚 Currently Learning
+ 📚 Currently Learning
 
-### 🟢 SQL Fundamentals
+ 🟢 SQL Fundamentals
 - SELECT statements  
 - Filtering data using WHERE  
 - Sorting results using ORDER BY  
@@ -37,7 +37,7 @@ Here you will find:
 
 ---
 
-## 🗂️ Repository Structure
+ 🗂️ Repository Structure
 
 ```bash
 SQL-Learning-Journey/
@@ -61,7 +61,7 @@ Each day folder includes:
 
 ---
 
-## 🎯 My Goals
+ 🎯 My Goals
 
 - Build strong **SQL fundamentals**
 - Become confident in **Data Querying & Analysis**
@@ -71,7 +71,7 @@ Each day folder includes:
 
 ---
 
-## 📈 Learning Philosophy
+ 📈 Learning Philosophy
 
 > “Consistency beats intensity. I focus on improving a little every day.”
 
@@ -79,7 +79,7 @@ This repository reflects my belief in **learning by doing**, not just watching o
 
 ---
 
-## 🔗 Connect With Me
+ 🔗 Connect With Me
 
 I regularly share my progress and learning journey on LinkedIn.
 
