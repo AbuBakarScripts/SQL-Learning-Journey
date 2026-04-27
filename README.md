@@ -1,90 +1,41 @@
-# 🚀 SQL Learning Journey | Cloud Data Engineering
+# SQL Learning Journey 🚀
 
-![SQL](https://img.shields.io/badge/SQL-Learning-blue?style=for-the-badge&logo=postgresql)
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
-![SMIT](https://img.shields.io/badge/SMIT-Cloud%20Data%20Engineering-green?style=for-the-badge)
+Welcome to my SQL Learning Journey repository!
 
----
+This repository documents my daily progress, practice exercises, and hands-on learning as I build my foundation in **SQL for Cloud Data Engineering**.
 
-## 👋 About Me
-I am currently pursuing a **Diploma in Cloud Data Engineering from SMIT (Saylani Mass IT Training Program)**.
+## 📚 About This Journey
+I am currently enrolled in the **SMIT Diploma in Cloud Data Engineering**, where I am learning core data concepts and database skills. This repository serves as my personal learning log to track growth, consistency, and practical understanding.
 
-This repository is my **hands-on learning journal**, where I document daily SQL practice, concepts, and exercises as I build my foundation in Data Engineering.
+## 🧠 What I’m Learning
+Right now, I am focusing on the fundamentals of SQL, including:
 
----
+- Querying data using SELECT statements  
+- Sorting data using ORDER BY  
+- Filtering data using WHERE conditions  
+- Understanding basic database structures  
 
- 📌 What This Repository Contains
-This repo is not just code — it is my **daily learning progress tracker**.
+## 📂 Repository Structure
+Each folder/file represents my daily practice and learning progress:
 
-Here you will find:
+Each file contains:
+- Practice queries
+- Notes from class
+- Small exercises for revision
 
-- 🧠 SQL concepts learned in class  
-- 💻 Daily practice queries  
-- 📊 Querying, Filtering, Sorting exercises  
-- 🗂️ Structured learning in folders by day  
-- 📈 Continuous improvement logs  
+## 🎯 Goal
+My goal is to:
+- Build strong SQL fundamentals  
+- Develop consistency through daily practice  
+- Prepare for a career in **Cloud Data Engineering**  
+- Showcase my learning journey publicly on GitHub & LinkedIn  
 
----
+## 📈 Progress Tracking
+I will be updating this repository daily as I continue my learning journey.
 
- 📚 Currently Learning
-
- 🟢 SQL Fundamentals
-- SELECT statements  
-- Filtering data using WHERE  
-- Sorting results using ORDER BY  
-- Basic query structuring  
-- Understanding relational databases  
-
----
-
- 🗂️ Repository Structure
-
-```bash
-SQL-Learning-Journey/
-│
-├── Day-01/
-│   ├── queries.sql
-│   └── notes.md
-│
-├── Day-02/
-│   ├── querying_sorting_filtering.sql
-│   └── notes.md
-│
-├── Day-03/
-│   └── coming soon...
-``` id="structure01"
-
-Each day folder includes:
-- 📝 Class notes  
-- 💡 Practice queries  
-- 🔁 Revision exercises  
+## 🤝 Connect With Me
+I am actively sharing my progress on LinkedIn. Let’s connect and grow together in the field of Data Engineering.
 
 ---
 
- 🎯 My Goals
-
-- Build strong **SQL fundamentals**
-- Become confident in **Data Querying & Analysis**
-- Prepare for a career in **Cloud Data Engineering**
-- Maintain consistency through daily practice
-- Build a strong **GitHub + LinkedIn portfolio**
-
----
-
- 📈 Learning Philosophy
-
-> “Consistency beats intensity. I focus on improving a little every day.”
-
-This repository reflects my belief in **learning by doing**, not just watching or reading.
-
----
-
- 🔗 Connect With Me
-
-I regularly share my progress and learning journey on LinkedIn.
-
-Let’s connect and grow together in the field of Data Engineering 🚀
-
----
-
-⭐ If you find this journey inspiring, feel free to follow along!
+⭐ If you find this helpful or inspiring, feel free to follow my journey!
