@@ -71,7 +71,7 @@ Each day folder includes:
 
 ---
 
-📈 Learning Philosophy
+## 📈 Learning Philosophy
 
 > “Consistency beats intensity. I focus on improving a little every day.”
 
@@ -79,7 +79,7 @@ This repository reflects my belief in **learning by doing**, not just watching o
 
 ---
 
- 🔗 Connect With Me
+## 🔗 Connect With Me
 
 I regularly share my progress and learning journey on LinkedIn.
 
